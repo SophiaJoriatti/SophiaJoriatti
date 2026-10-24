@@ -18,5 +18,5 @@ My main focus is building technology with social impact and human-centered desig
 - **Hardware Synthesis:** Designed a 4-bit Arithmetic Logic Unit (ALU) in VHDL.
 
 ## 📫 Let's Connect
-- [LinkedIn]([your-link-here](https://www.linkedin.com/in/sophia-joriatti-3a4445440/))
+- [LinkedIn](https://www.linkedin.com/in/sophia-joriatti-3a4445440/)
 - Email: sophiabatista866@gmail.com
