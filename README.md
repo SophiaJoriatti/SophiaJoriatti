@@ -12,7 +12,6 @@ My main focus is building technology with social impact and human-centered desig
 - **Hardware:** Digital logic design and VHDL synthesis (Intel Quartus).
 
 ## 🚀 Featured Projects
-- **WebAR Application:** An interactive card collection and target-tracking system.
 - **Florescer:** A community web portal developed in partnership with the 'Coletivo das Flores' student group (Esalq-USP).
 - **Manipulator Kinematics:** Forward and inverse kinematics scripts for 3D robot simulation.
 - **Hardware Synthesis:** Designed a 4-bit Arithmetic Logic Unit (ALU) in VHDL.
